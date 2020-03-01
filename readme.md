@@ -1,4 +1,4 @@
-<img src="calmcode-logo.png" width=125 height=125 align="right">
+<img src="calmcode-logo.png" width=152 height=103 align="right">
 
 # Calm Notebooks
 
@@ -10,4 +10,4 @@ collections over at [calmcode.io](https://calmcode.io).
 #### Smoking 
 
 Is smoking good for you? Collection is found [here] and 
-the notebook can be found [here]().
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/smoking/smoking.ipynb).
