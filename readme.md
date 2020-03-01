@@ -1,9 +1,8 @@
-<img src="calmcode-logo.png" width=152 height=103 align="right">
+<img src="calmcode-logo.png" width=272 height=103 align="right">
 
-# Calm Notebooks
+# Notebooks
 
-This repository contains notebooks that are using in 
-collections over at [calmcode.io](https://calmcode.io).
+This repository contains notebooks used over at [calmcode.io](https://calmcode.io).
 
 ## Contents
 
