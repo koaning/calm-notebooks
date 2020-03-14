@@ -5,7 +5,7 @@
 This repository contains notebooks used over at [calmcode.io](https://calmcode.io).
 
 
-<img src="smoking/smoking.svg" width=120 height=100 align="left">
+<img src="smoking/smoking.svg" width=50 height=50 align="left">
 
 ## Smoking 
 
@@ -14,7 +14,7 @@ Is smoking good for you? Or can we lie with statistics?
 Course is found [here](https://calmcode.io/smoking/the-dataset.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/smoking/smoking.ipynb).
 
-<img src="sleep/sleep.svg" width=120 height=100 align="left">
+<img src="sleep/sleep.svg" width=50 height=50 align="left">
 
 ## Sleep 
 
