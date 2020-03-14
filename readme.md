@@ -4,14 +4,16 @@
 
 This repository contains notebooks used over at [calmcode.io](https://calmcode.io).
 
-## Contents
+## Smoking 
 
-#### Smoking 
+Is smoking good for you? Or can we lie with statistics?
 
-Is smoking good for you? Collection is found [here](https://calmcode.io/smoking/the-dataset.html) and 
+Course is found [here](https://calmcode.io/smoking/the-dataset.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/smoking/smoking.ipynb).
 
-#### Sleep 
+## Sleep 
 
-When is lack of sleep causing damage? When is it significant? Collection is found [here](https://calmcode.io/sleep/the-problem.html) and 
+When is lack of sleep causing damage? When is it significant? 
+
+Course is found [here](https://calmcode.io/sleep/the-problem.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/sleep/sleep-research.ipynb).
