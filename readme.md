@@ -22,3 +22,12 @@ When is lack of sleep causing damage? When is it significant?
 
 Course is found [here](https://calmcode.io/sleep/the-problem.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/sleep/sleep-research.ipynb).
+
+<img src="birthday/birthday.svg" width=120 height=100 align="left">
+
+## The Birthday Problem 
+
+Is the conclusion different if we don't assume all days are equal?
+
+Course is found [here](https://calmcode.io/birthday-problem/birthdays.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/birthday/birthday-research.ipynb).
