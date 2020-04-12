@@ -31,3 +31,13 @@ Is the conclusion different if we don't assume all days are equal?
 
 Course is found [here](https://calmcode.io/birthday-problem/birthdays.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/birthday/birthday-research.ipynb).
+
+
+<img src="stocks/cvxpy-two.svg" width=50 height=50 align="left">
+
+## Stock Portfolio Optimisation
+
+How can we balance risk and reward?
+
+Course is found [here](https://calmcode.io/cvxpy-two/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/stocks/cvxpy-stocks).
