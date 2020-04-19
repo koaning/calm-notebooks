@@ -42,7 +42,7 @@ How can we balance risk and reward?
 Course is found [here](https://calmcode.io/cvxpy-two/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/stocks/cvxpy-stocks.ipynb).
 
-<img src="stocks/scikit-metrics.svg" width=50 height=50 align="left">
+<img src="scikit-metrics/scikit-metrics.svg" width=50 height=50 align="left">
 
 ## Scikit-Metrics
 
