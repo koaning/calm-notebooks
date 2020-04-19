@@ -40,4 +40,13 @@ the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/
 How can we balance risk and reward?
 
 Course is found [here](https://calmcode.io/cvxpy-two/introduction.html) and 
-the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/stocks/cvxpy-stocks).
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/stocks/cvxpy-stocks.ipynb).
+
+<img src="stocks/scikit-metrics.svg" width=50 height=50 align="left">
+
+## Scikit-Metrics
+
+How can you customise metrics to pick the right model.
+
+Course is found [here](https://calmcode.io/scikit-metrics/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-metrics/scikit-metrics.ipynb).
