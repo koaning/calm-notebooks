@@ -51,6 +51,8 @@ How can you customise metrics to pick the right model.
 Course is found [here](https://calmcode.io/scikit-metrics/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-metrics/scikit-metrics.ipynb).
 
+<img src="jax/jax.svg" width=50 height=50 align="left">
+
 ## Jax
 
 Can you compile towards a GPU by writing code like numpy? 
