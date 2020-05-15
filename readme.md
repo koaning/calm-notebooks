@@ -69,7 +69,7 @@ Can you compile towards a GPU by writing code like numpy?
 Course is found [here](https://calmcode.io/jax/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/jax/jax.ipynb).
 
-<img src="jax/annoy.svg" width=50 height=50 align="left">
+<img src="annoy/annoy.svg" width=50 height=50 align="left">
 
 ## Annoy
 
