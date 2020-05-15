@@ -53,6 +53,15 @@ the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/
 
 <img src="jax/jax.svg" width=50 height=50 align="left">
 
+## Scikit-Preprocessing
+
+How can you customise metrics to pick the right model.
+
+Course is found [here](https://calmcode.io/scikit-prep/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-prep/scikit-prepare.ipynb).
+
+<img src="scikit-prep/scikit-prep.svg" width=50 height=50 align="left">
+
 ## Jax
 
 Can you compile towards a GPU by writing code like numpy? 
