@@ -55,7 +55,7 @@ the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/
 
 ## Scikit-Preprocessing
 
-How can you customise metrics to pick the right model.
+Can preprocessing suddenly make an algorithm work?
 
 Course is found [here](https://calmcode.io/scikit-prep/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-prep/scikit-prepare.ipynb).
