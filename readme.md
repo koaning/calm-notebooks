@@ -78,3 +78,6 @@ How do you practically solve the nearest neighbor problem.
 
 Course is found [here](https://calmcode.io/annoy/intro.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/annoy/annoy-demo.ipynb).
+
+<img src="annoy/annoy.svg" width=50 height=50 align="left">
+§
