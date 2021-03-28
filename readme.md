@@ -29,7 +29,7 @@ the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/
 How to apply post-processing in scikit-learn. 
 
 Course is found [here](https://calmcode.io/scikit-meta/introduction.html) and 
-the notebook can be found [here]https://github.com/koaning/calm-notebooks/blob/master/scikit-meta/scikit-meta.ipynb).
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-meta/scikit-meta.ipynb).
 
 <img src="scikit-prep/scikit-prep.svg" width=50 height=50 align="left">
 
