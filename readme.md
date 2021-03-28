@@ -4,6 +4,50 @@
 
 This repository contains notebooks used over at [calmcode.io](https://calmcode.io).
 
+<img src="scikit-learn/scikit-learn.svg" width=50 height=50 align="left">
+
+## Scikit-Learn
+
+An overview of how to use scikit-learn.
+
+Course is found [here](https://calmcode.io/scikit-learn/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-learn/scikit-learn.ipynb).
+
+<img src="scikit-metrics/scikit-metrics.svg" width=50 height=50 align="left">
+
+## Scikit-Metrics
+
+How can you customise metrics to pick the right model.
+
+Course is found [here](https://calmcode.io/scikit-metrics/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-metrics/scikit-metrics.ipynb).
+
+<img src="scikit-meta/scikit-meta.svg" width=50 height=50 align="left">
+
+## Scikit-Meta
+
+How to apply post-processing in scikit-learn. 
+
+Course is found [here](https://calmcode.io/scikit-meta/introduction.html) and 
+the notebook can be found [here]https://github.com/koaning/calm-notebooks/blob/master/scikit-meta/scikit-meta.ipynb).
+
+<img src="scikit-prep/scikit-prep.svg" width=50 height=50 align="left">
+
+## Scikit-Preprocessing
+
+Can preprocessing suddenly make an algorithm work?
+
+Course is found [here](https://calmcode.io/scikit-prep/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-prep/scikit-prepare.ipynb).
+
+<img src="human-learn/human-learn.svg" width=50 height=50 align="left">
+
+## Human-Learn
+
+Can we model by using Natural Intelligence?
+
+Course is found [here](https://calmcode.io/human-learn/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/human-learn/human-learn.ipynb).
 
 <img src="smoking/smoking.svg" width=50 height=50 align="left">
 
@@ -41,25 +85,6 @@ How can we balance risk and reward?
 
 Course is found [here](https://calmcode.io/cvxpy-two/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/stocks/cvxpy-stocks.ipynb).
-
-<img src="scikit-metrics/scikit-metrics.svg" width=50 height=50 align="left">
-
-## Scikit-Metrics
-
-How can you customise metrics to pick the right model.
-
-Course is found [here](https://calmcode.io/scikit-metrics/introduction.html) and 
-the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-metrics/scikit-metrics.ipynb).
-
-<img src="scikit-prep/scikit-prep.svg" width=50 height=50 align="left">
-
-## Scikit-Preprocessing
-
-Can preprocessing suddenly make an algorithm work?
-
-Course is found [here](https://calmcode.io/scikit-prep/introduction.html) and 
-the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/scikit-prep/scikit-prepare.ipynb).
-
 
 <img src="jax/jax.svg" width=50 height=50 align="left">
 
