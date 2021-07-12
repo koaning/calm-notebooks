@@ -110,3 +110,12 @@ How comprehensions work in python.
 
 Course is found [here](https://calmcode.io/comprehensions/introduction.html) and 
 the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/comprehensions/comprehensions.ipynb).
+
+<img src="partial_fit/partial_fit.svg" width=50 height=50 align="left">
+
+## Partial Fit
+
+How to fit models with `partial_fit`.
+
+Course is found [here](https://calmcode.io/partial_fit/introduction.html) and 
+the notebook can be found [here](https://github.com/koaning/calm-notebooks/blob/master/partial_fit/).
